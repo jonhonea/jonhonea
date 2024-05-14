@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning more about data visualization in R.
+
 <!--
 **jonhonea/jonhonea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
